@@ -6,7 +6,7 @@ public class Login extends JFrame {
     private JButton ingresarButton;
     private JTextField textUsuario;
     private JPasswordField passwordField1;
-    private JPanel Login; // Suponiendo que este panel ya está definido en el archivo .form
+    private JPanel Login;
 
     public Login() {
         // Configuración de la ventana
