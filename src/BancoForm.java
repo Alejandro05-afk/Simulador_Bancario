@@ -121,8 +121,4 @@ public class BancoForm extends JFrame {
             dispose(); // Cerrar la aplicación
         }
     }
-
-    public static void main(String[] args) {
-        new BancoForm("Cliente Ejemplo"); // Iniciar la aplicación con un nombre de cliente
-    }
 }
