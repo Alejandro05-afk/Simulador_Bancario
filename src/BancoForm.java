@@ -26,9 +26,6 @@ public class BancoForm extends JFrame {
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null); // Centrar la ventana
 
-        // Inicializar componentes desde el formulario existente
-        // Aquí deberías cargar el formulario, si es necesario.
-
         // Establecer el panel como contenido de la ventana
         setContentPane(Banco);
 
